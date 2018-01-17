@@ -1,12 +1,12 @@
 # Site settings
-title: 晓风的博客
-email: suyan0830@gmail.com
+title: 波波的博客
+email: bobochen452@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  晓风的博客
+  波波的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Chen Bo
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
