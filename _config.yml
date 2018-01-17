@@ -21,9 +21,10 @@ instagram: suyan404
 linkedin: suyan404
 
 # avatar and Favicon
-author_img: Koala.jpg
-#avatar: /assets/img/Koala.jpg
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+#author-img: Koala.jpg
+avatar: /assets/img/Koala.jpg
+#favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+favicon: /assets/img/Koala.jpg
 
 # disqus config
 disqus:
